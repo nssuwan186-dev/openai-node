@@ -10,7 +10,7 @@
   "dependencies": {
     "formdata-node": "^4.4.1",
     "tsconfig-paths": "^4.0.0",
-    "typescript": "^5.7.3",
+    "typescript": "^5.9.3",
     "undici": "^7.10.0"
   },
   "devDependencies": {
